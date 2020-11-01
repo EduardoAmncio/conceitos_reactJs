@@ -1,7 +1,8 @@
-
-<a href="https://rocketseat.com.br" target="_blank"> 
-  <img alt="Rocketseat" title="#Rocketseat" src="./src/images/icon.svg" width="350px" />
-</a>
+<p align="center"> 
+  <a href="https://rocketseat.com.br" target="_blank"> 
+    <img alt="Rocketseat" title="#Rocketseat" src="./src/images/icon.svg" width="350px" />
+  </a>
+</p>
 
 <h3 align="center">Conceitos ReactJS - Nível 01 - Desafio 03</h3>
 
